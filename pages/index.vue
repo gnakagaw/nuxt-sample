@@ -3,5 +3,9 @@
 </template>
 
 <script>
-export default {}
+export default {
+  asyncData() {
+   setTimeout(foo, 1000);
+  }
+}
 </script>
