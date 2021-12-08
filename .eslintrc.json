@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "plugin:nuxt/recommended"
+  ],
+  "rules": {
+    "nuxt/no-timing-in-fetch-data": "off"
+  }
+}
+
