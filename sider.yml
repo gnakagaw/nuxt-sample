@@ -1,4 +1,0 @@
-linter:
-  eslint:
-    ext: [.js, .vue]
-    
